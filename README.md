@@ -86,7 +86,7 @@ Git初学者のため何かとお見苦しい部分はあるとは思います�
 # Auther
 
 * 作成者：Frq09
-* E-mail：drs0928jp@outlook.com
+* E-mail：FrauxAI@gmail.com
 
 # License
 
